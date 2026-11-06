@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "eercheck",
+  "versions": [
+    {
+      "commit": "0c7064bd8643e4e1e060fa46297c33bdfbc3b7a1",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:42:37.185744+00:00"
+    }
+  ]
+}
