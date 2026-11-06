@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-community",
+  "repo": "eercheck",
+  "versions": [
+    {
+      "commit": "0c7064bd8643e4e1e060fa46297c33bdfbc3b7a1",
+      "parsed_at": "2026-11-06T19:39:59.667125+00:00",
+      "filetree": "filetree/0c7064bd8643e4e1e060fa46297c33bdfbc3b7a1.nq.gz",
+      "blobs": [
+        "blob/b4d90790223b95552556ea895ac541a489a7379d.nq.gz",
+        "blob/22b5b65301176f3decbd706c089388cb0329c5e2.nq.gz",
+        "blob/70e1fd4a2e46f4cae5750030461a0e738ac8f28c.nq.gz",
+        "blob/c3c2e9c9f77c008131be55342667a03fb1b22f97.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/9c12de2c2cfb768029c16a383ed5d7814a7c7b14.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/98b8f3e18d17a3b0910d649b77a2dc0b4e41b6f4.nq.gz",
+        "blob/e72bfddabc15be5718a7cc061ac10e47741d8219.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
