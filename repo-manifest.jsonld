@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/eercheck/commit/0c7064bd8643e4e1e060fa46297c33bdfbc3b7a1",
       "git:hexsha": "0c7064bd8643e4e1e060fa46297c33bdfbc3b7a1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T19:42:37.183120+00:00"
     }
   ]
 }
